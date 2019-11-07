@@ -1,4 +1,4 @@
-﻿ Contributors
+ Contributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 - [Nicholas Kelly]
@@ -43,6 +43,7 @@
 - [ishanExtreme](https://github.com/ishanExtreme)
 - [Rushabh](https://github.com/Rushabh10)
 - [Pablo Cañas Castellanos] (https://github.com/pcanas/)
+- [LadyBuggs]
 - [Kevin] (https://github.com/Altenmann)
 - [Adam] (https://github.com/BigRed77/]
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
