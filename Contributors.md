@@ -43,7 +43,7 @@
 - [ishanExtreme](https://github.com/ishanExtreme)
 - [Rushabh](https://github.com/Rushabh10)
 - [Pablo Cañas Castellanos] (https://github.com/pcanas/)
-- [LadyBuggs]
+- [LadyBuggs](https://github.com/ladybuggs)
 - [Kevin] (https://github.com/Altenmann)
 - [Adam] (https://github.com/BigRed77/]
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
